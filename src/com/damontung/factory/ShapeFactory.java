@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.damontung.factorypattern;
+package com.damontung.factory;
 
 /**
  * @author guangzhd

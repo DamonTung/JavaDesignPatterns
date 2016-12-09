@@ -1,18 +1,18 @@
 /**
  * 
  */
-package com.damontung.factorypattern;
+package com.damontung.factory;
 
 /**
  * @author guangzhd
  *
  */
-public class Rectangle implements Shape {
+public class Square implements Shape {
 
 	/**
 	 * 
 	 */
-	public Rectangle() {
+	public Square() {
 		// TODO Auto-generated constructor stub
 	}
 
@@ -23,8 +23,8 @@ public class Rectangle implements Shape {
 	 */
 	@Override
 	public void draw() {
-		
-		System.out.println("Inside Rectangle::draw() method.");
+		// TODO Auto-generated method stub
+		System.out.println("Inside Square::draw() method.");
 	}
 
 }

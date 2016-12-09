@@ -1,14 +1,14 @@
 /**
  * 
  */
-package com.damontung.factorypattern.test;
+package com.damontung.factory.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.damontung.factorypattern.Shape;
-import com.damontung.factorypattern.ShapeFactory;
+import com.damontung.factory.Shape;
+import com.damontung.factory.ShapeFactory;
 
 /**
  * @author guangzhd
